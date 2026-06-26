@@ -1,4 +1,4 @@
-[2026-06-26_佐々木氏MTG_アジェンダ.md](https://github.com/user-attachments/files/29372959/2026-06-26_.MTG_.md)
+[2026-06-26_佐々木氏MTG_アジェンダ.md](https://github.com/user-attachments/files/29373137/2026-06-26_.MTG_.md)
 ---
 type: output.consulting-deck
 date: 2026-06-26
